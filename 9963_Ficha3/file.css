@@ -1,0 +1,67 @@
+body {
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#alinhaEsquerda {
+    text-align: left;
+}
+
+#alinhaDireita {
+    text-align: right;
+}
+
+   .alinhaCentro{
+    text-align: center;
+}
+
+h1,h2,h3,p{
+    text-align: center;
+}
+
+header h1{
+    color: red;
+}
+
+main h1{
+    color: blue;
+}
+   
+.vermelho{
+    color:red;
+    background-color: lightseagreen;
+    border: 2px solid black;
+    font-weight: bold;
+    background-image: url("show_eye.PNG");
+    background-attachment: scroll;
+    border-style: inset;
+    border-color: aqua;
+}
+
+.cinzento{
+    background-color: grey;
+    width: 10%;
+}
+
+.metade{
+    width:50%;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

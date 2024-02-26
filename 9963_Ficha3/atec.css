@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+    border: 20px;
+}
+header{
+    text-align: center;
+}
+nav{
+    background-color: grey;
+    color: black;
+}
