@@ -1,5 +1,5 @@
 # Comandos de Git   
-## Configuração de utilizador TESTE
+## Configuração de utilizador
 git config --global user.name "NOME"
 git config --global user.email "EMAIL"
 ## Comandos 
